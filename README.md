@@ -4,6 +4,10 @@ Desarrollo de la prueba propuesta por ZINOBE.
 Al momento de clonar el repo  dentro de la carpeta bank se encuentran  dos carpetas  una llamada v1, la cual contiene
 el Api del proyecto, y una carpeta llamada zinobe, la cual contiene el front del proyecto.   
 
+
+User : sastoqueh@gmail.com
+Pass : 123456
+
 ## Instalación
 
 Use npm i  antes de correr el proyecto para instalar las librerias necesarias tanto e node como en angular.
