@@ -72,11 +72,25 @@ POST api/login
 
 ** Se resalta que para este caso por agilidad Los métodos POST hacen las funciones de PUT**
 
+** Es nesecario estar autenticado para consumir los servicios **
+
 
 
 Para la base de datos use  mongoDB desplegada en mongo Atlas, la DB no corre de manera local.  
 
+ ZINOBE Front 
 
+Autenticación  de usuario
+
+ http://localhost:4200/login
+
+ Home dashboard 
+
+ http://localhost:4200/dashboard
+
+Create User 
+
+ http://localhost:4200/dashboard/create-user
 
 
 
