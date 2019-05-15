@@ -4,7 +4,7 @@ Desarrollo de la prueba propuesta por ZINOBE.
 Al momento de clonar el repo  dentro de la carpeta bank se encuentran  dos carpetas  una llamada v1, la cual contiene
 el Api del proyecto, y una carpeta llamada zinobe, la cual contiene el front del proyecto.   
 
-## Instalacion
+## Instalación
 
 Use npm i  antes de correr el proyecto para instalar las librerias necesarias tanto e node como en angular.
 
@@ -13,7 +13,7 @@ Use npm i  antes de correr el proyecto para instalar las librerias necesarias ta
 npm i | npm install
 ```
 
-## Usage
+## Uso
 
 Para correr el Api en node es necesario:
 
@@ -49,7 +49,7 @@ API ZINOBE V1 End points
 
 ```bash
 
-Balance global de la plataform
+Balance me permite gestionar el monto global de la plataforma
 
 Get api/balance
 POSt API/balance
@@ -75,3 +75,8 @@ POST api/login
 
 
 Para la base de datos use  mongoDB desplegada en mongo Atlas, la DB no corre de manera local.  
+
+
+
+
+
